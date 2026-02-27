@@ -15,11 +15,6 @@ The goal of this project was to demonstarte an ability to:
 
 
 
-1.  Are there sex differences in the prevalence of heart disease mortality in 2021? 
-2.  What are the top 5 regions in Colorado with the highest age-adjusted incidence rate of lung and bronchus cancer from 2018 to 2020?
-3.  How did socioeconomic status influence the prevalence of chronic obstructive pulmonary disease (COPD) in 2021? 
-To improve data analysis, only the 2021 CDC and economic data were used. 
-
 
 
 
