@@ -32,4 +32,4 @@ INNER JOIN
 WHERE
     E.State != 'Puerto Rico' 
 ORDER BY 
-    COPD_Prevalence_Rank ASC;
+    COPD_Prevalence_Rank 
