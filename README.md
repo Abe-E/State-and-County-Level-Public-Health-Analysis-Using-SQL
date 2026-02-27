@@ -6,7 +6,7 @@ __Project Overview__
 
 This project investigates public health using CDC, U.S. Census Bureau, and Colorado Central Cancer Registry data to discover patterns of chronic disease prevalence and mortality. Using MySQL, I examined how demographic and socioeconomic factors relate to health outcomes such as coronary heart disease mortality, lung and bronchus cancer incidence, and chronic obstructive pulmonary disease (COPD). 
 
-The goal of this project was to demonstarte an ability to:
+The goal of this project was to demonstrate an ability to:
 1. Import, structure, and analyze datasets from multiple sources in MySQL
 2. Write SQL queries using aggregation and filtering
 3. Interpret public health data in unique and meaningful ways
@@ -53,7 +53,7 @@ Chronic.DataValueType
 
 Analysis revealed that men experience, on average, 54 more deaths per 100,000 individuals from coronary heart disease mortalities in compared to females in 2021. These findings indicate a substantial sex-based disparity in cardiovascular mortality. 
 
-Our findings are consistent with previous cardiovascular research. For example, in a review by Maas & Appelman (2010), research suggest that cardiovascular disease develops later in women. Moreover, differenes in clinical presentation in women lead to an under-recognition of early heart disease and less aggressive treatment strategies in comparison to men. 
+Our findings are consistent with previous cardiovascular research. For example, in a review by Maas & Appelman (2010), research suggest that cardiovascular disease develops later in women. Moreover, differences in clinical presentation in women lead to an under-recognition of early heart disease and less aggressive treatment strategies in comparison to men. 
 
 
 __Investigation 2: Lung and Bronchus Cancer__
@@ -88,7 +88,7 @@ Convert(GeographyValue, Decimal) DESC
 
 *Interpretation*
 
-The top 5 counties with the highest incidence of lung and bronchus cancer were Cheyenne, Baca, Lincoln, Prowers, and Fremont. The most striking incidence of lung cancer is in Cheyenne, with 67 more cases than the state average of 37. Though there are numerous risk factors associated with developing lung and bronchus cancer, additional research into these county’s allowed for a couple of theories. Firstly, elevated tobacco use in frontier counties such as Baca, Prowers, and Lincoln in comparison to the state average may explain the higher incidence rates. Secondly, rural counties also have fewer opportunities for early lung cancer screenings due to a lack of access to specialized healthcare facilities. Lastly, these five counties share lower median household incomes and higher poverty rates than the state average. Socioeconomic status is deeply intertwined with tobacco use, health insurance, and increased occupational exposures to carcinogens. Future solutions include an increase in screening programs and greater healthcare equality in these areas. 
+The top 5 counties with the highest incidence of lung and bronchus cancer were Cheyenne, Baca, Lincoln, Prowers, and Fremont. The most striking incidence of lung cancer is in Cheyenne, with 67 more cases than the state average of 37. Though there are numerous risk factors associated with developing lung and bronchus cancer, additional research into these counties allowed for a couple of theories. Firstly, elevated tobacco use in frontier counties such as Baca, Prowers, and Lincoln in comparison to the state average may explain the higher incidence rates. Secondly, rural counties also have fewer opportunities for early lung cancer screenings due to a lack of access to specialized healthcare facilities. Lastly, these five counties share lower median household incomes and higher poverty rates than the state average. Socioeconomic status is deeply intertwined with tobacco use, health insurance, and increased occupational exposures to carcinogens. Future solutions may include an increase in screening programs and greater healthcare equality in these areas. 
 
 
 
