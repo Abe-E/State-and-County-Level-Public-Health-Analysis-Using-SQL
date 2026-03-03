@@ -13,7 +13,7 @@ FROM
     WHERE 
         `Label (Grouping)` = 'Per capita income (dollars)'
     ) AS E
-INNER JOIN 
+JOIN 
     (SELECT 
         LocationDesc AS State,
         AVG(DataValue) AS Disease_AgeAdj_Prev
